@@ -1,7 +1,7 @@
 {
-  "name": "aeromate-client",
+  "name": "aviatr-client",
   "version": "0.1.0",
-  "description": "Vue Client for AeroMate",
+  "description": "Vue Client for Aviatr",
   "author": "flightcode",
   "license": "GPL-3.0",
   "private": true,
